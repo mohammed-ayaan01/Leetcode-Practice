@@ -24,7 +24,10 @@ Leetcode-Practice/
 ├── README.md
 │
 ├── Arrays/
-│   └── README.md
+│   ├── README.md
+│   └── TwoSum/
+│       ├── TwoSum.java
+│       ├── TwoSum.py
 │
 
 ```
