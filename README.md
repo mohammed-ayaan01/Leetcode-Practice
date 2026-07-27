@@ -83,6 +83,7 @@ Every solution file follows a consistent structure for easy review, in whichever
    **Python:**
    ```bash
    python ProblemName.py
+   py ProblemName.py
    ```
 
 ---
