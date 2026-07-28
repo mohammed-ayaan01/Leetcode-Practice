@@ -88,8 +88,13 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0001-two-sum) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
