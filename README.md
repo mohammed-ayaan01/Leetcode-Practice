@@ -96,5 +96,6 @@ Every solution file follows a consistent structure for easy review, in whichever
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
