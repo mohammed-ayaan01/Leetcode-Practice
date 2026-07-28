@@ -1,3 +1,16 @@
+"""
+ * Problem: Two Sum / #0001
+ * Link: https://leetcode.com/problems/two-sum/description/
+ *
+ * Approach:
+ * Brute Force Approach is Used Where we are traversing and scanning each element
+ *
+ * Language Used: Python
+ *
+ * Time Complexity: O(n^2)
+ * Space Complexity: O(1)
+ """
+
 class Solution(object):
     def twoSum(self, nums, target):
         """
