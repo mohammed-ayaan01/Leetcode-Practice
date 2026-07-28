@@ -1,6 +1,6 @@
-# ð§  Leetcode-Practice
+# Ã°ÂÂ§Â  Leetcode-Practice
 
-> A structured, topic-wise collection of Leetcode problems solved in Java and Python â built for interview preparation and deep conceptual understanding.
+> A structured, topic-wise collection of Leetcode problems solved in Java and Python Ã¢ÂÂ built for interview preparation and deep conceptual understanding.
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
@@ -8,7 +8,7 @@
 
 ---
 
-## ð About This Repo
+## Ã°ÂÂÂ About This Repo
 
 This repository documents my journey through topics and problems using **Java** and **Python**. Every topic has its own folder with a dedicated `README.md` explaining the concepts, patterns, and time/space complexity notes, alongside clean, well-commented solutions.
 
@@ -17,13 +17,13 @@ The goal: build pattern recognition, not just solve problems.
 ---
 
 Each topic folder's `README.md` includes:
-- ð Core concept explanations.
-- ð§© Common patterns & when to use them.
-- â±ï¸ Time & space complexity.
+- Ã°ÂÂÂ Core concept explanations.
+- Ã°ÂÂ§Â© Common patterns & when to use them.
+- Ã¢ÂÂ±Ã¯Â¸Â Time & space complexity.
 
 ---
 
-## ð§© Problem Format
+## Ã°ÂÂ§Â© Problem Format
 
 Every solution file follows a consistent structure for easy review, in whichever language it's solved in.
 
@@ -44,7 +44,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 
 ---
 
-## ð ï¸ Tech Stack
+## Ã°ÂÂÂ Ã¯Â¸Â Tech Stack
 
 - **Languages:** Java 17+, Python 3.10+
 - **IDE:** IntelliJ IDEA / VS Code / PyCharm
@@ -52,11 +52,11 @@ Every solution file follows a consistent structure for easy review, in whichever
 
 ---
 
-## ð How to Use This Repo
+## Ã°ÂÂÂ How to Use This Repo
 
 1. Pick a topic folder (e.g., `Arrays/`)
 2. Read that folder's `README.md` for the concept overview
-3. Browse solution files â each is self-contained and runnable
+3. Browse solution files Ã¢ÂÂ each is self-contained and runnable
 4. Compile & run directly:
 
    **Java:**
@@ -73,7 +73,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 
 ---
 
-## ð¯ Goals
+## Ã°ÂÂÂ¯ Goals
 
 - [ ] Solve 50+ problems per core topic
 - [ ] Master all major patterns before moving to advanced DP/Backtracking
@@ -81,7 +81,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 
 ---
 
-## "Consistency compounds. One problem at a time." ð§ ð
+## "Consistency compounds. One problem at a time." Ã°ÂÂ§Â Ã°ÂÂÂ
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
