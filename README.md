@@ -1,6 +1,6 @@
-# 🧠 Leetcode-Practice
+# ð§  Leetcode-Practice
 
-> A structured, topic-wise collection of Leetcode problems solved in Java and Python — built for interview preparation and deep conceptual understanding.
+> A structured, topic-wise collection of Leetcode problems solved in Java and Python â built for interview preparation and deep conceptual understanding.
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square)
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 About This Repo
+## ð About This Repo
 
 This repository documents my journey through topics and problems using **Java** and **Python**. Every topic has its own folder with a dedicated `README.md` explaining the concepts, patterns, and time/space complexity notes, alongside clean, well-commented solutions.
 
@@ -17,13 +17,13 @@ The goal: build pattern recognition, not just solve problems.
 ---
 
 Each topic folder's `README.md` includes:
-- 📖 Core concept explanations.
-- 🧩 Common patterns & when to use them.
-- ⏱️ Time & space complexity.
+- ð Core concept explanations.
+- ð§© Common patterns & when to use them.
+- â±ï¸ Time & space complexity.
 
 ---
 
-## 🧩 Problem Format
+## ð§© Problem Format
 
 Every solution file follows a consistent structure for easy review, in whichever language it's solved in.
 
@@ -44,7 +44,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 
 ---
 
-## 🛠️ Tech Stack
+## ð ï¸ Tech Stack
 
 - **Languages:** Java 17+, Python 3.10+
 - **IDE:** IntelliJ IDEA / VS Code / PyCharm
@@ -52,11 +52,11 @@ Every solution file follows a consistent structure for easy review, in whichever
 
 ---
 
-## 🚀 How to Use This Repo
+## ð How to Use This Repo
 
 1. Pick a topic folder (e.g., `Arrays/`)
 2. Read that folder's `README.md` for the concept overview
-3. Browse solution files — each is self-contained and runnable
+3. Browse solution files â each is self-contained and runnable
 4. Compile & run directly:
 
    **Java:**
@@ -73,7 +73,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 
 ---
 
-## 🎯 Goals
+## ð¯ Goals
 
 - [ ] Solve 50+ problems per core topic
 - [ ] Master all major patterns before moving to advanced DP/Backtracking
@@ -81,4 +81,15 @@ Every solution file follows a consistent structure for easy review, in whichever
 
 ---
 
-## "Consistency compounds. One problem at a time." 🧠🚀
+## "Consistency compounds. One problem at a time." ð§ ð
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
