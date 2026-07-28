@@ -16,24 +16,6 @@ The goal: build pattern recognition, not just solve problems.
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-Leetcode-Practice/
-│
-├── README.md
-│
-├── Arrays/
-│   ├── README.md
-│   └── TwoSum/
-│       ├── TwoSum.java
-│       ├── TwoSum.py
-│
-
-```
-
----
-
 Each topic folder's `README.md` includes:
 - 📖 Core concept explanations.
 - 🧩 Common patterns & when to use them.
@@ -96,7 +78,6 @@ Every solution file follows a consistent structure for easy review, in whichever
 - [ ] Solve 50+ problems per core topic
 - [ ] Master all major patterns before moving to advanced DP/Backtracking
 - [ ] Maintain clean, interview-ready code with clear complexity analysis
-- [ ] Add a `DynamicProgramming/` and `Backtracking/` module next
 
 ---
 
