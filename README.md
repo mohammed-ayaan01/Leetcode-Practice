@@ -102,6 +102,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [0009-palindrome-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1642-water-bottles](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +115,8 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [4107-find-missing-elements](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4107-find-missing-elements) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
