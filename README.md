@@ -93,9 +93,19 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
