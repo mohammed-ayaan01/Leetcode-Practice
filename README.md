@@ -103,6 +103,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1642-water-bottles) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,4 +120,8 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1642-water-bottles) |
+## Enumeration
+|  |
+| ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
