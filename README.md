@@ -130,6 +130,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0344-reverse-string) |
 ## Trie
 |  |
