@@ -3,29 +3,38 @@
  * Link: https://leetcode.com/problems/longest-common-prefix/
  *
  * Approach:
- * Sort the array of strings lexicographically. After sorting, the strings
- * at the first and last positions will have the maximum difference.
- * Therefore, their common prefix will also be the common prefix of all
- * strings. Compare characters of the first and last strings until a
- * mismatch is found, then return the matching prefix.
+ * Compare characters at the same position across all strings.
+ * Use the first string as the reference and stop when a character
+ * doesn't match or another string is shorter. Build the common
+ * prefix using StringBuilder.
  *
  * Language Used: Java
  *
- * Time Complexity: O(n log n * m)
- * Space Complexity: O(1) auxiliary space
+ * Time Complexity: O(n * m)
+ * Space Complexity: O(m)
  */
-class Solution {
+ 
+ class Solution {
     public String longestCommonPrefix(String[] strs) {
-        if(strs==null && strs.length==0){
-            return "";
+        StringBuilder result = new StringBuilder();
+        
+        boolean flag = true;
+        for (int i = 0; i < strs[0].length(); i++) { // Running i upto string number of times.     
+            for (int j = 1; j < strs.length; j++) { // Running j upt0 array length i.e 3 times. 
+                if(i >= strs[j].length() || strs[0].charAt(i) != strs[j].charAt(i)){
+                    flag = false;
+                }
+            
+            }
+            if(flag){
+                result.append(strs[0].charAt(i));
+
+            }else{
+                break;
+            }
+
         }
-        Arrays.sort(strs);
-        String first=strs[0];//flight
-        String last=strs[strs.length-1];//flower
-        int i=0;
-        while(i<first.length() && i<last.length() && first.charAt(i)==last.charAt(i)){
-            i++;
-        }
-        return first.substring(0,i);
+        return result.toString();
+        
     }
 }
