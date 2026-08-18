@@ -139,6 +139,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [0058-length-of-last-word](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1660-thousand-separator](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1660-thousand-separator) |
 | [2470-removing-stars-from-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
