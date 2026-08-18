@@ -98,6 +98,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | ------- |
 | [0001-two-sum](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [4107-find-missing-elements](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -136,8 +137,17 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [0014-longest-common-prefix](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
