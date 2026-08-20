@@ -93,6 +93,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [0027-remove-element](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [4107-find-missing-elements](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | ------- |
 | [1642-water-bottles](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [2470-removing-stars-from-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/2470-removing-stars-from-a-string) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
