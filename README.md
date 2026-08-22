@@ -110,6 +110,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
