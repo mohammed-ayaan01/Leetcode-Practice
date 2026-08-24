@@ -92,6 +92,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0066-plus-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [4107-find-missing-elements](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4107-find-missing-elements) |
@@ -106,6 +107,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1642-water-bottles) |
