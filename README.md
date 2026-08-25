@@ -121,6 +121,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0344-reverse-string) |
 ## Floyd's Cycle Finding Algorithm
@@ -145,6 +146,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -174,4 +176,20 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0136-single-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## KnuthâMorrisâPratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## BoyerâMoore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
