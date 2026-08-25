@@ -96,6 +96,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [0136-single-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0136-single-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [0001-two-sum](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
