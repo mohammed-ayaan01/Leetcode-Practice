@@ -112,6 +112,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [0009-palindrome-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -176,6 +177,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
@@ -184,12 +186,16 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthâMorrisâPratt Algorithm
+## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerâMoore String-Search Algorithm
+## BoyerÃ¢ÂÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
