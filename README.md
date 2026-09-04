@@ -98,6 +98,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4107-find-missing-elements) |
+| [4284-smallest-stable-index-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,11 +187,11 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃ¢ÂÂMoore String-Search Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -198,4 +199,8 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [4284-smallest-stable-index-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4284-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
