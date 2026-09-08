@@ -118,6 +118,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 | [1642-water-bottles](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4245-count-commas-in-range](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/4245-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,11 +188,11 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
