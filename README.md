@@ -150,6 +150,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0344-reverse-string) |
@@ -171,6 +172,7 @@ Every solution file follows a consistent structure for easy review, in whichever
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -189,11 +191,11 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -209,4 +211,8 @@ Every solution file follows a consistent structure for easy review, in whichever
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0866-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
