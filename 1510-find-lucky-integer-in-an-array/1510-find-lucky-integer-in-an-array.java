@@ -1,4 +1,16 @@
-class Solution {
+/**
+ * Problem: [Name / LeetCode #]
+ * Link: [problem link]
+ *
+ * Approach:
+ * [Short explanation of the strategy]
+ *
+ * Language Used: [Programming Language]
+ *
+ * Time Complexity: O(...)
+ * Space Complexity: O(...)
+ */
+ class Solution {
     public int findLucky(int[] arr) {
         int maximum = -1;
         for(int i = 0;i < arr.length;i++){
