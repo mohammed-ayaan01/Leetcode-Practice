@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0485-max-consecutive-ones](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1580-shuffle-the-array](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/2058-concatenation-of-array) |
