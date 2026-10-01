@@ -26,4 +26,16 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/2058-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
