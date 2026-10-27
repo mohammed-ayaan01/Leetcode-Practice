@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
@@ -43,4 +45,9 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mohammed-ayaan01/Leetcode-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
